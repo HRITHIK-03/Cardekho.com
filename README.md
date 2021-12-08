@@ -12,3 +12,5 @@ transmission
 Owner
 and a few more...
 which helps us in determining the pretty accurate selling price for a particular car.
+
+Tableau Public Link : https://public.tableau.com/app/profile/hrithik.jagwani/viz/Cardekho_com/UsedCarsAnalysis
